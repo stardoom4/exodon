@@ -17,7 +17,7 @@ enableEmoji = true
 
 [params]
   mathJaxInitialize = "{ \"chtml\": { \"displayAlign\": \"left\" } }"
-  author.name = "Wen-Wei Tseng"
+  authorName = "Wen-Wei Tseng"
   themeVariant = [ "relearn-light", "relearn-dark", "learn", "neon", "blue", "green", "red" ]
 
 [markup]
